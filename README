@@ -1,3 +1,7 @@
+Carlos' build of st - the simple (suckless) terminal
+====================================================
+
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
@@ -5,7 +9,8 @@ st is a simple terminal emulator for X which sucks less.
 
 Requirements
 ------------
-In order to build st you need the Xlib header files.
+In order to build st you need the Xlib header files and, optionally, bxft-bgra
+to display color emojis.
 
 
 Installation
