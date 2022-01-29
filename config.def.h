@@ -8,7 +8,8 @@
 static char *font = "Input:pixelsize=19:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"Noto Color Emoji:pixelsize=18:antialias=true:autohint=true",
+	"DejaVu Sans Mono for Powerline:pixelsize=18:antialias=true:autohint=true",
+	"NotoSansMono Nerd Font:pixelsize=18:antialias=true:autohint=true",
 	"Twitter Color Emoji:pixelsize=18:antialias=true:autohint=true",
 };
 static int borderpx = 2;
