@@ -205,7 +205,6 @@ static Shortcut shortcuts[] = {
 	{ ControlMask,          XK_Prior,       zoom,           {.f = +1} },
 	{ ControlMask,          XK_Next,        zoom,           {.f = -1} },
 	{ ControlMask,          XK_0,           zoomreset,      {.f =  0} },
-	{ MODKEY,               XK_c,           clipcopy,       {.i =  0} },
 	{ MODKEY,               XK_v,           clippaste,      {.i =  0} },
 	{ MODKEY,               XK_y,           selpaste,       {.i =  0} },
 	{ ShiftMask,            XK_Insert,      selpaste,       {.i =  0} },
